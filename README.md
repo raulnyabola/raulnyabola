@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif" align="center" alt="Hello World. This is Raul Nyabola" align="center" width="10%" height="10%"/>
+  <img src="https://media.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif" align="center" alt="Hello World. This is Raul Nyabola" align="center" width="20%" height="20%"/>
 </div>
 <p align="center"> Hello there! </p>
 
@@ -18,7 +18,7 @@ Click the buttons to connect with me: <br>
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@raulnyabola) <br>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="center" alt="Hello World. This is Raul Nyabola" align="center" width="50%" height="50%"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="center" alt="Hello World. This is Raul Nyabola" align="center" width="100%" height="60%"/>
 </div>
 <h3 align="center"> I am inspired by the FEAR of being AVERAGE. </h3>
 
