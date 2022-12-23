@@ -20,7 +20,7 @@ Click the buttons to connect with me: <br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="center" alt="Hello World. This is Raul Nyabola" align="center" width="100%" height="60%"/>
 </div>
-<p align="center"> I am inspired by the <b>FEAR</b> of being <b>AVERAGE</b>. <br> This is my source of inspiration. I let the drive push myself harder and strive for greatness; <b>PERFECTION.</b>  </p> <br> <br>
+<p align="center"> I am <b>INSPIRED</b> by the <b>FEAR</b> of being <b>AVERAGE</b>. <br> This is what stimulates me.. I let the drive push myself harder and strive for greatness; <b>PERFECTION.</b>  </p> <br> <br>
 
 # 💻 Tech Stack:
 <list>
