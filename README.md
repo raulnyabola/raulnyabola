@@ -15,12 +15,12 @@ Click the buttons to connect with me: <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raulnyabola) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20838963) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@raulnyabola) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@raulnyabola) <br>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@raulnyabola) <br> <br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="center" alt="Hello World. This is Raul Nyabola" align="center" width="100%" height="60%"/>
 </div>
-<h3 align="center"> I am inspired by the FEAR of being AVERAGE. </h3>
+<h3 align="center"> I am inspired by the <b>FEAR</b> of being <b>AVERAGE</b>; This is my source of inspiration. I let the drive push myself harder and strive for greatness; <b>PERFECTION</b>  </h3> <br> <br>
 
 # 💻 Tech Stack:
 <list>
