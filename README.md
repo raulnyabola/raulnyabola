@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" alt="Hello World. This is Raul Nyabola" align="center" size="100"/>
-</div>
+<img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" alt="Hello World. This is Raul Nyabola" align="center" size="100" />
+
 
 # 💫 About Me:
 I’m Raul Nyabola. I’m taking Full Stack Software Engineering at African Leadership Experience (ALX) & BSc. Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT, Juja, Kiambu, Kenya). I'm interested in software development & UI/UX Designing.
