@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif" alt="Hello World. This is Raul Nyabola" align="center" width="10%" height="10%" align="center"/>
+<img src="https://media.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif" align="center" alt="Hello World. This is Raul Nyabola" align="center" width="10%" height="10%"/>
 <p align="center"> Hello there! </p>
 
 
