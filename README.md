@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-I’m Raul Nyabola, but you can call me Smart. <br> I’m taking Full Stack Software Engineering at African Leadership Experience (ALX) & BSc. Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT, Juja, Kiambu, Kenya). I'm interested in software development & UI/UX Designing.
+I’m Raul Nyabola, but you can call me Smart. <br> I’m taking a Full Stack Software Engineering course at African Leadership Experience (ALX) & BSc. Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT, Juja, Kiambu, Kenya). <br> I am a Graphic Designer, and interested in Software Development & UI/UX Designing.
 
 ## 🌐 Socials:
 Click the buttons to connect with me: <br>
