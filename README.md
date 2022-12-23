@@ -1,8 +1,9 @@
 # 💫 About Me:
-Hello World! I’m Raul Nyabola. I’m taking Full Stack Software Engineering at African Leadership Experience (ALX) & BSc. Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT, Juja, Kiambu, Kenya). I'm interested in software development & UI/UX Designing.
-
+<Hello World!>
+I’m Raul Nyabola. I’m taking Full Stack Software Engineering at African Leadership Experience (ALX) & BSc. Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT, Juja, Kiambu, Kenya). I'm interested in software development & UI/UX Designing.
 
 ## 🌐 Socials:
+Click the buttons to connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raulnyabola) <br>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raulnyabola) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raulnyabola) <br>
