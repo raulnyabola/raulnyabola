@@ -17,8 +17,8 @@ Click the buttons to connect with me: <br>
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@raulnyabola) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@raulnyabola) <br>
 
-<div align="center">
-  <img src="c/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300" align="center"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="center" alt="Hello World. This is Raul Nyabola" align="center" width="50%" height="50%"/>
 </div>
 <h3 align="center"> I am inspired by the FEAR of being AVERAGE. </h3>
 
