@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" alt="Hello World. This is Raul Nyabola" align="center" size="100%"/>
+  <img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" alt="Hello World. This is Raul Nyabola" align="center" size="100"/>
 </div>
 
 # 💫 About Me:
