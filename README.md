@@ -1,5 +1,6 @@
+<img src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" alt="Hello World. This is Raul Nyabola" align="center" size="100%"/>
+
 # 💫 About Me:
-<Hello World!> <br>
 I’m Raul Nyabola. I’m taking Full Stack Software Engineering at African Leadership Experience (ALX) & BSc. Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT, Juja, Kiambu, Kenya). I'm interested in software development & UI/UX Designing.
 
 ## 🌐 Socials:
@@ -11,6 +12,11 @@ Click the buttons to connect with me: <br>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20838963) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@raulnyabola) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@raulnyabola) <br>
+
+<div align="center">
+  <img src="c/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300" align="center"/>
+</div>
+<h3 align="center"> I am inspired by the FEAR of being AVERAGE. </h3>
 
 # 💻 Tech Stack:
 <list>
