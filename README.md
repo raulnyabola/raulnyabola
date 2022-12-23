@@ -13,7 +13,7 @@ Hello World! I’m Raul Nyabola. I’m taking Full Stack Software Engineering at
 
 # 💻 Tech Stack:
 <list>
-  <ul>
+  <ol>
     C <br>
     Shell Script <br>
     HTML <br>
@@ -21,7 +21,7 @@ Hello World! I’m Raul Nyabola. I’m taking Full Stack Software Engineering at
     Adobe Illustrator <br>
     Adobe Photoshop <br>
     Canva <br>
-  </ul>
+  </ol>
   </list>
 
 # 📊 GitHub Stats:
