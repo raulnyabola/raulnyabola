@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif" alt="Hello World. This is Raul Nyabola" align="center" width="100%" height="100%" />
+<img src="https://media.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif" alt="Hello World. This is Raul Nyabola" align="center" width="10%" height="10%" />
 
 
 # 💫 About Me:
