@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif" align="center" alt="Hello World. This is Raul Nyabola" align="center" width="20%" height="20%"/>
 </div>
-<p align="center"> Hello there! This is my first code <br> (Well, this isn't true.) </p>
+<p align="center"> Hello there! </p>
 
 
 # 💫 About Me:
