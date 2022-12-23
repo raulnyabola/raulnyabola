@@ -1,5 +1,5 @@
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Hello World. This is Raul Nyabola" align="center" size="100" />
-<iframe src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="480" height="426" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/r6vs6u9NngyiANYCRI/giphy.gif" alt="Hello World. This is Raul Nyabola" align="center" width="100%" height="100%" />
+
 
 # 💫 About Me:
 I’m Raul Nyabola. I’m taking Full Stack Software Engineering at African Leadership Experience (ALX) & BSc. Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT, Juja, Kiambu, Kenya). I'm interested in software development & UI/UX Designing.
