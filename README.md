@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-I’m Raul Nyabola. <br> I’m taking a Full Stack Software Engineering course at African Leadership Experience (ALX) & BSc. Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT Main Campus, Juja, Kiambu, Kenya). <br> I am a Graphic Designer, and interested in Software Development & UI/UX Designing.
+I’m Raul Nyabola. <br> I’m taking a Full Stack Software Engineering course at African Leadership Experience (ALX) & BSc. Statistics at Jomo Kenyatta University of Agriculture and Technology (JKUAT Main Campus, Juja, Kiambu, Kenya). <br> I am a Graphic Designer, Digital Marketer, Project Manager, SMM, SMO, SEM, & SEO Guru.
 
 ## 🌐 Socials:
 Click the buttons to connect with me: <br>
