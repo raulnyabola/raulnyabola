@@ -29,8 +29,10 @@ Click the buttons to connect with me: <br>
     Shell Script <br>
     HTML <br>
     CSS Script <br>
+    Wordpress <br>
     Adobe Illustrator <br>
     Adobe Photoshop <br>
+    Corel Draw <br>
     Canva <br>
   </ul>
   </list>
