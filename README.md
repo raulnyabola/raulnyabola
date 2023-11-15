@@ -25,7 +25,7 @@ Click the buttons to connect with me: <br>
 # 💻 Tech Stack:
 <list>
   <ul>
-    C <br>
+    PHP <br>
     Shell Script <br>
     HTML <br>
     CSS Script <br>
